@@ -1,0 +1,8 @@
+{
+  "name": "cross-chain-bridge-sim",
+  "version": "1.0.0",
+  "description": "Cross-chain bridge lock and mint simulation",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
